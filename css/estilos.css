@@ -20,13 +20,15 @@ body{
 }
 
 h1{
+	top:2em;
 	background: orange;
 	color: #ffffff; 
-	margin: 0,25em auto ;
+	margin: 0em auto ;
 	text-align: center; 
 	text-shadow: 2em;  
 }
 header{
+	top:2em;
 	background:#dbdbdb;
 	color: #151515;
 	border-radius: 0,5em;
@@ -37,6 +39,7 @@ header{
 
 }
 div{
+	top:2em;
 	padding-bottom: 0px;
  	background: white;
 	color:black
@@ -45,16 +48,18 @@ div{
 	left:100px;
 }
 nav{
+	top:2em;
 	background: white;
 	color:black;
 	margin:0,50em auto;
 	text-align: left;
 }
 footer{
+	top:2em;
 	background: orange;
 	width: 100% center;
 	color:#ffffff;
-	margin:2em auto;
+	margin:0em auto;
 	border-radius: 0,5em;
 	text-align: left;
 }
