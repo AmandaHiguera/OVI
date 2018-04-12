@@ -39,13 +39,11 @@ header{
 div{
 	padding-bottom: 0px;
  	background: white;
-	color:black;
+	color:black
 	margin:0,50em auto;
 	text-align: left;
 	left:100px;
-
-
-	;
+}
 nav{
 	background: white;
 	color:black;
@@ -54,7 +52,7 @@ nav{
 }
 footer{
 	background: orange;
-	width: 75% center;
+	width: 100% center;
 	color:#ffffff;
 	margin:2em auto;
 	border-radius: 0,5em;
