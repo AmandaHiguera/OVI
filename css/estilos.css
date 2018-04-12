@@ -37,11 +37,13 @@ header{
 
 }
 div{
-	background: white;
+	padding-bottom: 0px;
+ 	background: white;
 	color:black;
 	margin:0,50em auto;
 	text-align: left;
 	left:100px;
+
 
 	;
 nav{
