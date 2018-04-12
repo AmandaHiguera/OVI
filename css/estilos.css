@@ -20,7 +20,7 @@ body{
 }
 
 h1{
-	top:2em;
+	
 	background: orange;
 	color: #ffffff; 
 	margin: 0em auto ;
@@ -28,7 +28,7 @@ h1{
 	text-shadow: 2em;  
 }
 header{
-	top:2em;
+	
 	background:#dbdbdb;
 	color: #151515;
 	border-radius: 0,5em;
@@ -39,7 +39,7 @@ header{
 
 }
 div{
-	top:2em;
+	
 	padding-bottom: 0px;
  	background: white;
 	color:black
@@ -55,7 +55,7 @@ nav{
 	text-align: left;
 }
 footer{
-	top:2em;
+
 	background: orange;
 	width: 100% center;
 	color:#ffffff;
@@ -63,5 +63,3 @@ footer{
 	border-radius: 0,5em;
 	text-align: left;
 }
-
-section 
