@@ -34,7 +34,16 @@ header{
 	max-width: 0px;
 	padding top: 70px;
 	text-align: left; 
+
 }
+div{
+	background: white;
+	color:black;
+	margin:0,50em auto;
+	text-align: left;
+	left:100px;
+
+	;
 nav{
 	background: white;
 	color:black;
@@ -43,9 +52,9 @@ nav{
 }
 footer{
 	background: orange;
-	width: 50%;
+	width: 75% center;
 	color:#ffffff;
-	margin:0,25em auto;
+	margin:2em auto;
 	border-radius: 0,5em;
 	text-align: left;
 }
