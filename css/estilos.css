@@ -43,6 +43,7 @@ nav{
 }
 footer{
 	background: orange;
+	width: 50%;
 	color:#ffffff;
 	margin:0,25em auto;
 	border-radius: 0,5em;
