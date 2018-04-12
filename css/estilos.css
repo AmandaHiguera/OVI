@@ -20,7 +20,12 @@ body{
 	background-size: cover;
 	color: black;
 	font-size: 20px; 
+	flex-wrap: wrap;
+
 }
+
+	
+
 
 h1{
 	
@@ -44,9 +49,9 @@ header{
 	background:#dbdbdb;
 	color: #151515;
 	border-radius: 0,5em;
-	margin:0,5em auto;
+	margin:auto;
 	max-width: 0px;
-	padding top: 70px;
+	padding top: 75px;
 	text-align: left; 
 
 }
@@ -60,14 +65,26 @@ div{
 	text-align: left;
 	left:100px;
 }
-nav{
+nav li a {
 
-	top:2em;
-	background:;
-	color:black;
-	margin:1em auto;
+	top:1em;
+	background-size: 100% :white;
+	color:#0B0B61;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+	margin: auto;
 	text-align: left;
+	float: left;
+	font-size: 20px;
 }
+
+nav li a: hover{ 
+background-color: #000;
+
+ }
+
+
 footer{
 
 	display: inline-block;
@@ -82,4 +99,17 @@ footer{
 	text-align: left;
 	font-size: 15px ;
 	padding: 10px;
+	align-self: flex-end;
+
+
+}
+
+footer li {
+	
+	list-style-position: center;
+	display:inline-flex;
+	color:black;
+	height: 50PX;
+   text-align: center;
+
 }
